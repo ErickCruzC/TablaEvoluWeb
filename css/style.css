@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+li{
+    font-family: Arial;
+}
+table{
+    background-color: rgba(214, 168, 252, 0.589);
+    border-collapse: collapse;
+    width: 100%;
+}
